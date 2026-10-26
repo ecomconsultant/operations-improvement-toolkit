@@ -1,0 +1,9 @@
+# Local files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+.env
+.env.*
+!.env.example
